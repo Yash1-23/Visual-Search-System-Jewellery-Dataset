@@ -1,0 +1,36 @@
+# Core Libraries
+numpy==1.24.3
+pandas==1.5.3
+scikit-learn==1.2.2
+
+# Deep Learning
+tensorflow==2.13.0
+keras==2.13.1
+
+# Image Processing
+opencv-python==4.8.1.78
+Pillow==9.5.0
+
+# Web Framework
+streamlit==1.26.0
+flask==3.1.2  # Optional, if using Flask instead of Streamlit
+
+# Dimensionality Reduction
+scipy==1.11.2
+
+python --version
+
+pip install --upgrade pip
+
+
+# Cloud Deployment
+gunicorn==21.2.0  # For production server
+uvicorn==0.23.0   # For ASGI server (if required)
+
+# Visualization
+matplotlib==3.7.3
+seaborn==0.12.3
+
+# Others
+joblib==1.4.1
+requests==2.31.0
