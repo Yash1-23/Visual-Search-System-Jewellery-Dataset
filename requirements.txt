@@ -20,7 +20,7 @@ scipy==1.11.2
 
 
 
-pip install --upgrade pip
+
 
 
 # Cloud Deployment
