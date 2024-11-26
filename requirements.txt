@@ -12,8 +12,7 @@ opencv-python==4.8.1.78
 Pillow==9.5.0
 
 # Web Framework
-streamlit==1.26.0
-flask==3.1.2  # Optional, if using Flask instead of Streamlit
+
 
 # Dimensionality Reduction
 scipy==1.11.2
